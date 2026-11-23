@@ -189,18 +189,6 @@ Every project is an opportunity to learn something new, improve my skills, and b
 
 ---
 
-## 📫 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/)
-
-</div>
-
----
-
 <div align="center">
 
 ### 👩🏻‍💻 Sara Mostafa Al-Sokkar
